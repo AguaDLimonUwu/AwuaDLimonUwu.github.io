@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('JAJA Manca sabia q eras Furra pero x, ando aburrido Ugu')
+    alert('Quique si sabes algo de yahir y no lo dices y pasa algo...Mmste JAJAJA broma no te lo tomes enserio...o si?')
 });
 
 const noBtn = document.querySelector('#noBtn');
